@@ -16,4 +16,4 @@ npm test
 ```
 
 You should see something like the following:
-
+![Alt text](/screenshots/automated-testing--screenshot001.png?raw=true "Example of running tests")
